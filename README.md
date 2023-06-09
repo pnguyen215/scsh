@@ -1,0 +1,1 @@
+Before running the script, you need to give the script execute permission with the command `chmod x script-name.sh`. Where `script-name.sh` is the name of your script file.
